@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": " \"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petr123qrd/npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Petr123qrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Petr123qrd/npm-package/issues"
+  },
+  "homepage": "https://github.com/Petr123qrd/npm-package#readme"
+}
